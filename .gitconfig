@@ -1,0 +1,13 @@
+[user]
+    name = Hannes von Haugwitz
+    email = hannes@vonhaugwitz.com
+[color]
+    ui = auto
+[format]
+    pretty = fuller
+[log]
+    decorate = short
+[push]
+    default = simple
+[include]
+    path = ~/.gitconfig.local
