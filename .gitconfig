@@ -7,6 +7,8 @@
     pretty = fuller
 [log]
     decorate = short
+[status]
+    showStash = true
 [push]
     default = simple
 [include]
