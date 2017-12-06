@@ -3,15 +3,17 @@
     email = hannes@vonhaugwitz.com
 [color]
     ui = auto
+[commit]
+    verbose = true
 [format]
     pretty = fuller
 [log]
     decorate = short
-[status]
-    showStash = true
+[merge]
+    log = true
 [push]
     default = simple
+[status]
+    showStash = true
 [include]
     path = .gitconfig.local
-[commit]
-    verbose = true
