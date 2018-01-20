@@ -5,6 +5,8 @@
     ui = auto
 [commit]
     verbose = true
+[core]
+    editor = vim
 [format]
     pretty = fuller
 [log]
