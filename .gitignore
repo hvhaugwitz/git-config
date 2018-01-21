@@ -1,0 +1,5 @@
+# vim swap files
+.*.s[a-v][a-z]
+.*.sw[a-p]
+.s[a-v][a-z]
+.sw[a-p]
