@@ -6,6 +6,7 @@
     verbose = true
 [core]
     editor = vim
+    excludesfile = ~/.gitignore
 [format]
     pretty = fuller
 [log]
