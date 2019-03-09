@@ -11,6 +11,10 @@
     prune = true
 [format]
     pretty = fuller
+[gc]
+    reflogExpire = 360 days
+    reflogExpireUnreachable = 180 days
+    pruneExpire = 90 days
 [log]
     decorate = short
 [merge]
