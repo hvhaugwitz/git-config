@@ -19,6 +19,8 @@
     decorate = short
 [merge]
     log = true
+[mergetool]
+    keepBackup = false
 [push]
     default = simple
 [status]
