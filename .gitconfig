@@ -4,11 +4,18 @@
     defaultBranch = main
 [color]
     ui = auto
+[color "diff"]
+    oldMoved=241
+    newMoved = 254
 [commit]
     verbose = true
 [core]
     editor = vim
     excludesfile = ~/.gitignore
+[diff]
+    renames = copies
+    colorMoved = blocks
+    algorithm = patience
 [fetch]
     prune = true
 [format]
