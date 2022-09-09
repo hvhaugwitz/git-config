@@ -35,6 +35,8 @@
     keepBackup = false
 [push]
     default = simple
+[pull]
+    rebase = false
 [status]
     showStash = true
 [include]
