@@ -29,6 +29,7 @@
     follow = true
 [merge]
     log = true
+    tool = vimdiff
 [mergetool]
     keepBackup = false
 [push]
