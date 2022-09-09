@@ -1,5 +1,7 @@
 [user]
     name = Hannes von Haugwitz
+[init]
+    defaultBranch = main
 [color]
     ui = auto
 [commit]
