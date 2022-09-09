@@ -19,6 +19,7 @@
     pruneExpire = 90 days
 [log]
     decorate = short
+    follow = true
 [merge]
     log = true
 [mergetool]
